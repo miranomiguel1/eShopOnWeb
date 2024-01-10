@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: bfbc53c5-a15d-487b-81a2-8b759592d007
-  WEBAPP-NAME: MIGUEL
+  WEBAPP-NAME: MIGUEL-WEB
 
 
 jobs:
